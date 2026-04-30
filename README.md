@@ -7,9 +7,9 @@
 ## Структура
 
 - `report.md` - финальный отчёт с результатами
-- `docs/` - Architecture Decision Records (ADR)
-- `notebooks/` - ноутбуки по этапам
-- `utils.py` - вспомогательные функции|
+- `ADR/` - Architecture Decision Records
+- `01-05/` - ноутбуки по этапам
+- `utils.py` - py methods
 
 ## Данные
 
