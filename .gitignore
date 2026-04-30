@@ -1,0 +1,10 @@
+parquets/
+Data/
+models/
+rubert_tiny2/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+bert_tiny2_output/
+catboost_info/
