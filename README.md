@@ -18,5 +18,5 @@ Avito Demand Prediction Challenge (Kaggle)
 ## Запуск
 
 1. `pip install -r requirements.txt`
-2. Скачать `train.csv` от Avito Demand Prediction в `Data/`
+2. Скачать `train.csv` от Avito Demand Prediction в `DATA/`
 3. Прогнать ноутбуки 01-05 по порядку
