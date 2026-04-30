@@ -13,8 +13,7 @@
 
 ## Данные
 
-Avito Demand Prediction Challenge (Kaggle), 1.5M объявлений, 
-47 категорий. Скачивание - см. notebooks/01_eda.ipynb.
+Avito Demand Prediction Challenge (Kaggle)
 
 ## Запуск
 
